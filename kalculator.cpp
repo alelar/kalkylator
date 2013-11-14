@@ -8,11 +8,11 @@ int main(int argc, char *argv[])
     
     double a, b;
     char raknesatt;
-    cout<< "ange vad som ska beräknas: "<<endl; 
+    cout<< "ange vad som ska berï¿½knas: "<<endl; 
     cin>> a >> raknesatt>> b;
     switch (raknesatt)
     {
-            case '+': 
+            case '-'
                cout<< "svar:" <<a+b;
                break;
             case '-': 
